@@ -26,7 +26,9 @@ cd gendered-job-detector
    
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
+
 **OR**
+
 venv\Scripts\activate     # Windows
 
 **3. Install dependencies**
